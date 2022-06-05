@@ -1,6 +1,6 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @ROCKSTAR_PRINCR_OP
 # Dear Pero ppls Plish Don't remove this line from here🌚
-# created by ItsmeHyper13
+# created by Mr Prince
 
 import requests
 from pyrogram import idle
@@ -22,9 +22,7 @@ bot = Bot(
 async def main():
     async with bot:
         try:
-            await USER.join_chat(SILENT_DEVS)
-            await USER.join_chat(SILENT_BOTS)
-            await USER.join_chat(SilentVerse)
+            await USER.join_chat(L00NeY_TunesxD)
         except UserAlreadyParticipant:
             pass
         except Exception as e:
