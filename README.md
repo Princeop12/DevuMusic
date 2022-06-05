@@ -18,7 +18,7 @@
 <summary><b><h3>Credits</h3></b></summary>
 <i>All credit Goes To these peoples</i><br>
 <code>ItsmeHyper13: Main Credit</code><br>
-<code>Nub Hu vro Schhi me🥲🥲</code><br>
+<code>Papa Hu vro Schhi me🔥</code><br>
 </details>
 
 
