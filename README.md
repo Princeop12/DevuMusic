@@ -32,7 +32,7 @@
 <pre>
 <h3><b><i>Forks nd Stars</i></b></h3>
 <img src="https://img.shields.io/github/license/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/DevuMusic.svg">
-<a href="https://https://github.com/Princeop12/DevuMusic0"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
+<a href="https://https://github.com/Princeop12/DevuMusic0"><img src="https://img.shields.io/badge/Fork%20Broken%20Music-black?style=for-the-badge&logo=github"></a>
 </pre></p>
 
 
