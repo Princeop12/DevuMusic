@@ -4,7 +4,7 @@
 
 > __PRINCE Papa ka bot hai free use karo .__
 <p align="center">
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+<img src='https://telegra.ph/file/506a067a33796c3077ce7.jpg' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
 
 </pre>
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
