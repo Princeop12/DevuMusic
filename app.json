@@ -1,8 +1,8 @@
 {
-  "name": "HyperX Music",
+  "name": "BrokenX Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/99446be35330477534a5d.jpg",
+  "logo": "https://telegra.ph/file/f102ef0a4762292cbd072.jpg",
   "repository": "https://github.com/ItsmeHyper13/DevuMusic",
   "stack": "container",
   "env": {
@@ -27,12 +27,12 @@
     "OWNER_USERNAME": {
       "description": "fill with your telegram account username without @",
       "required": true,
-      "value": "ShiningOff"
+      "value": "@ROCKSTAR_PRINCE_OP"
     },
     "SUPPORT_GROUP": {
       "description": "if you have group, then fill the group username here without @",
       "required": true,
-      "value": "SilentVerse"
+      "value": "L00NeY_TunesxD"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
@@ -45,12 +45,12 @@
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true,
-      "value": "5280801259"
+      "value": "5166466565"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "120"
+      "value": "60"
     }
   }
 }
