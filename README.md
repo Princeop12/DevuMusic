@@ -2,7 +2,7 @@
 >Lag Free music bot 🔥
 <p align="center"><h6> <code>Telegram Music</code> </h6>
 
-> __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
+> __PRINCE Papa ka bot hai free use karo .__
 <p align="center">
 <img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
 
