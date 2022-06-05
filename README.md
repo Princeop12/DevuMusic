@@ -37,8 +37,8 @@
 
 
 <h6><b><i><u>Here Broken Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
-<p><a href='https://t.me/DEVU_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
-<a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
+<p><a href='https://t.me/ROCKSTAR_PRINCE_OP'><img src="https://img.shields.io/badge/Broken_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
+<a href="https://t.me/ROCKSTAR_PRINCE_OP"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
 <p><code>##This Project Under</code> <pre> <a href="https://t.me/ROCKSTAR_PRINCE_OP"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
