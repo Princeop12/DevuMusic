@@ -10,7 +10,7 @@
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
 <pre>
 
-<b>Deploy DevuMusic to Heroku</b>
+<b>Deploy BrokenX Music to Heroku</b>
 <p><a href="https://heroku.com/deploy?template=https://https://github.com/Princeop12/DevuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 </details>
