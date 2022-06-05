@@ -1,5 +1,5 @@
-## `DevuMusic`
->Lag Free music bot for telegram 💞
+## `BrokenX Music`
+>Lag Free music bot 🔥
 <p align="center"><h6> <code>Telegram Music</code> </h6>
 
 > __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
