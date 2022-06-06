@@ -22,8 +22,8 @@ def start_(bot, message):
                     InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
-                    InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="Source✨", callback_data="repo_k"),
+                    InlineKeyboardButton(text="Owner✨", url=f"https://t.me/{OWNER_USERNAME}"),
+                    InlineKeyboardButton(text="Source", callback_data="repo_k"),
                 ],                
                 [                    
                     InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
@@ -80,7 +80,7 @@ def callback_query(Client, callback: CallbackQuery):
         REPO_MSG = f"""Hey, Here is the source code of {BOT_NAME} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
         REPO_BUTTONS = [
             [
-                InlineKeyboardButton(text="Source", url="https://github.com/ItsmeHyper13/DevuMusic"),
+                InlineKeyboardButton(text="Source", url="tere papa ka nahi jo mila hai usse hi use kar chutiye repo lega"),
                 InlineKeyboardButton(text="Back", callback_data="HOME"),
             ],
         ]
@@ -97,8 +97,8 @@ def callback_query(Client, callback: CallbackQuery):
                         InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                     ],
                     [
-                        InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
-                        InlineKeyboardButton(text="Source✨", callback_data="repo_k"),
+                        InlineKeyboardButton(text="Owner✨", url=f"https://t.me/{OWNER_USERNAME}"),
+                        InlineKeyboardButton(text="Source", callback_data="repo_k"),
                     ],                
                     [                    
                         InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
