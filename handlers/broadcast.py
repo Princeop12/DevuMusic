@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @ROCKSTAR_PRINCE_OP
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 
@@ -11,7 +11,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from callsmusic.callsmusic import client as aditya
 from config import SUDO_USERS
 
-DARK_IMG = "https://telegra.ph/file/9350788513346feef5087.jpg"
+DARK_IMG = "https://telegra.ph/file/72e0caff8514e372b55a1.jpg"
 
 @Client.on_message(filters.command("gcast"))
 async def broadcast(_, message: Message):
