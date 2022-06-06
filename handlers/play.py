@@ -175,7 +175,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="✨ᴏᴡɴᴇʀ✨",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/SILENT_BOTS"),
@@ -219,7 +219,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="✨ᴏᴡɴᴇʀ✨",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/SILENT_BOTS"),
@@ -240,7 +240,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="✨ᴏᴡɴᴇʀ✨",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/SILENT_BOTS"),
@@ -299,7 +299,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="✨ᴏᴡɴᴇʀ✨",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
                             url=f"https://t.me/SILENT_BOTS"),
