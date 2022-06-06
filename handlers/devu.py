@@ -18,12 +18,10 @@ def start_(bot, message):
 
     START_BUTTON = [
                 [
-                    InlineKeyboardButton(text="Updates", url=f"https://t.me/SILENT_BOTS"),
                     InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
-                    InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="Source✨", callback_data="repo_k"),
+                    InlineKeyboardButton(text="Owner", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                 ],                
                 [                    
                     InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
@@ -38,7 +36,7 @@ def start_(bot, message):
 
 @bot.on_message(filters.command("help"))
 def help_(bot, message):
-    HELP_TXT = """Hoi {}\nHere is the help menu choose your desireoption nd explorer it!!\nFor any kind of help or query Just join @{} and ask your query!!"""
+    HELP_TXT = """Hoi {}\nHere is the help menu choose your desireoption nd explorer it!!\nFor any kind of help or query Just join @L00NeY_TunesxD and ask your query!!"""
     
     HELP_BUTTON = [
         [
@@ -77,10 +75,10 @@ def callback_query(Client, callback: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(HELP_BUTTON)
         )
     elif callback.data == "repo_k":
-        REPO_MSG = f"""Hey, Here is the source code of DevuMusic🧚‍♀️\nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
+        REPO_MSG = f"""Hey, bhag bsdk repo lega 🤣
         REPO_BUTTONS = [
             [
-                InlineKeyboardButton(text="Source", url="https://github.com/ItsmeHyper13/DevuMusic"),
+                InlineKeyboardButton(text="Source", url="@ROCKSTAR_PRINCE_OP"),
                 InlineKeyboardButton(text="Back", callback_data="HOME"),
             ],
         ]
@@ -90,10 +88,10 @@ def callback_query(Client, callback: CallbackQuery):
         )
     elif callback.data == "HOME":
  
-        START_TEXT = f"""Hey, Myself DevuMusic!\nA simple , lagfree and flexible music robot!\nIf you facing any issue related to this music bot then please join @{SUPPORT_GROUP}\nFor more help you can explorer help menu by tapping on /help !"""
+        START_TEXT = f"""Hey, Myself BrokenX Music!\nA simple , lagfree and flexible music robot!\nIf you facing any issue related to this music bot then please join @{SUPPORT_GROUP}\nFor more help you can explorer help menu by tapping on /help !"""
         START_BUTTON = [
                     [
-                        InlineKeyboardButton(text="Updates", url="https://t.me/SILENT_BOTS"),
+                        InlineKeyboardButton(text="Updates", url="https://t.me/L00NeY_TunesxD"),
                         InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                     ],
                     [
