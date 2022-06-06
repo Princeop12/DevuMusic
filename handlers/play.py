@@ -178,7 +178,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -222,7 +222,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -243,7 +243,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -302,7 +302,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
