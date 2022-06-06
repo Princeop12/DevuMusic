@@ -21,6 +21,12 @@
 <code>Papa Hu vro Schhi me🔥</code><br>
 </details>
 
+#  Okteto Deployment
+
+<h4>Click the button below to deploy on Okteto!</h4>
+
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Princeop12/DevuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="250""/></a>
+
 
 
 <h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
