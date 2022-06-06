@@ -80,7 +80,7 @@ def callback_query(Client, callback: CallbackQuery):
         REPO_MSG = f"""Hey, Here is the source code of {BOT_NAME} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
         REPO_BUTTONS = [
             [
-                InlineKeyboardButton(text="Source", url="tere papa ka nahi jo mila hai usse hi use kar chutiye repo lega"),
+                InlineKeyboardButton(text="Source", url="https://tere/papa/ka/nahi/jo/mila/hai/hi/use/kar/chutiye/repo/lega"),
                 InlineKeyboardButton(text="Back", callback_data="HOME"),
             ],
         ]
