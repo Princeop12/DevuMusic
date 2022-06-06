@@ -27,7 +27,7 @@ async def broadcast(_, message: Message):
         devu = message.reply_to_message.text
         async for dialog in aditya.iter_dialogs():
             try:
-                await aditya.send_message(dialog.chat.id, devu)
+                await aditya.send_message(dialog.chat.id, Broken)
                 sent = sent+1
                 await hyper.edit(f"`ʙʀᴏᴀᴅᴄᴀsᴛɪɴɢ` \n\n**sᴜᴄᴄᴇssғᴜʟʟ ɪɴ:** `{sent}` ᴄʜᴀᴛs👾 \n**ᴜɴsᴜᴄᴄᴇssғᴜʟʟ ɪɴ:** {failed} ᴄʜᴀᴛs🗑️")
                 await asyncio.sleep(3)
