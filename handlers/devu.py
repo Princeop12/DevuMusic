@@ -151,7 +151,7 @@ def callback_query(Client, callback: CallbackQuery):
                 InlineKeyboardButton(text="Back", callback_data="help_"),
             ],
         ]
-        calllback.edit_message_text(
+        callback.edit_message_text(
             A_HELP,
             reply_markup=InlineKeyboardMarkup(BUTTON)
         )
