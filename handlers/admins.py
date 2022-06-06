@@ -17,10 +17,10 @@ from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
                             ReplyKeyboardMarkup, ReplyKeyboardRemove)
 
 
-PAUSED = "https://telegra.ph/file/94ee2bdfc7e81d371aae3.jpg"
-RESUMED = "https://telegra.ph/file/50cf13056d78898e13ae0.jpg"
-SKIPPED = "https://telegra.ph/file/116d7d9b9100c44249333.jpg"
-END = "https://telegra.ph/file/6d1902d08c88f318d53c7.jpg"
+PAUSED = "https://telegra.ph//file/63e20824134aad272ab91.jpg"
+RESUMED = "https://telegra.ph//file/561cc5912d69b5420d10c.jpg"
+SKIPPED = "https://telegra.ph/file/364de644a03fb7ae76757.jpg"
+END = "https://telegra.ph/file/d1476f3cda54a9563eb7a.jpg"
 
 BUTTON = [
     [
