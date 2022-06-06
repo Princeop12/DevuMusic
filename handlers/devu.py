@@ -18,7 +18,7 @@ def start_(bot, message):
 
     START_BUTTON = [
                 [
-                    InlineKeyboardButton(text="Updates", url=f"https://t.me/L00NeY_TunesxD0"),
+                    InlineKeyboardButton(text="Updates", url=f"https://t.me/L00NeY_TunesxD"),
                     InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
